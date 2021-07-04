@@ -1,12 +1,13 @@
 # React assessment
 
 Instructions to run the project:
-1)	Download the zip react-assessment-narapa and unzip to a local folder
-2)	Navigate to the folder: react-assessment-narapa and run command: ‘npm install’
-3)	To see tests running, run: npm test -- -u
-4)	Run ‘npm start’ after install is complete successfully
-5)	Once npm start is successful and you see the line: ‘Compiled successfully.’, open the browser and run: http://localhost:8082/
-6)	To see tests running, run: npm test -- -u
+1)	Download the zip tech-tasks-main and unzip to a local folder
+2)	Go to the folder and unzip react-assessment-narapa zip
+3)	Navigate to the folder: react-assessment-narapa and run command: ‘npm install’
+4)	To see tests running, run: npm test -- -u
+5)	Run ‘npm start’ after install is complete successfully
+6)	Once npm start is successful and you see the line: ‘Compiled successfully.’, open the browser and run: http://localhost:8082/
+7)	To see tests running, run: npm test -- -u
 
 Points to note:
 Task One:
