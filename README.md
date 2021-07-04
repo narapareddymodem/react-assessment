@@ -1,5 +1,4 @@
-# tech-tasks
-react assessment
+# react assessment
 
 Instructions to run the project:
 1)	Download the zip react-assessment-narapa and unzip to a local folder
