@@ -27,11 +27,12 @@ Expected:
 2.	All modals should expose a mechanism to allow them to be closed.
 3.	There should be a way to consume button click events on modals with buttons.
 4.	Create a demo page with three buttons that trigger each of the modals to show.
-**Narapa: I may not have got exact styles with pixels but tried my best to get this look more like samples.
-I have tried to add some tests for all the components, but they are not complete due to my limited unit testing in react knowledge. I agree, I need to improve my skills around testing; for that matter may be in React as well 😊.
 
-**Thanks for assessment. I enjoyed every bit of this** 😊
-**
+**Narapa: I may not have got exact styles with pixels but tried my best to get this look more like samples.
+I have tried to add some tests for all the components, but they are not complete due to my limited unit testing in react knowledge. I agree, I need to improve my skills around testing; for that matter may be in React as well.**
+
+**Thanks for the assessment. I enjoyed every bit of this 😊**
+
 
  
 
